@@ -24,6 +24,7 @@ require (
 	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
 	github.com/prometheus/common v0.6.0
 	golang.org/x/sys v0.0.0-20190618155005-516e3c20635f
+	golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7 // indirect
 	google.golang.org/grpc v1.21.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.15.0
 	k8s.io/api v0.0.0-20190313235455-40a48860b5ab
